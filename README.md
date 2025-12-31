@@ -1,6 +1,7 @@
 # ~/dotfiles_resources
 
 > [!NOTE]
-> This repo uses git lfs. Make sure you have it installed.
+> This repo uses git lfs, so make sure it installed on your machine before cloning.
+> https://git-lfs.com/
 
-This repo holds all my dotfile resources like fonts, themes, wallpapers etc.
+This repo holds all resources needed by the dotfiles like fonts, themes, wallpapers etc.
